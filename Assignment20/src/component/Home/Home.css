@@ -1,0 +1,102 @@
+.container{
+    display: flex;
+}
+.left-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 2px  ; 
+   
+}
+
+.right-container{
+    flex:1;
+    padding: 20px;
+    background-color: beige;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 2px  ; 
+}
+
+.card{
+    justify-content: center;
+    align-content: center;
+    background-color:antiquewhite;
+    margin: 20px;
+    padding: 10px;
+    
+}
+
+.card img{
+    width:80px;
+    height: 80px;
+    margin: 10px;
+}
+
+.card h3,p{
+    text-align: justify;
+}
+.card button{
+    border-radius: 5px;
+    background-color: beige;
+
+}
+.card button:hover{
+    background-color:burlywood;
+    cursor: pointer;
+}
+.right-card {
+    display: flex;
+    align-items: center;
+    background-color: bisque;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+}
+
+.right-card img {
+    width: 100px;
+    height: auto;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+.right-card-content {
+    flex-grow: 1;
+}
+
+.price {
+    margin: 0;
+}
+
+.quantity-controls {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.quantity-controls button {
+    width: 30px;
+    height: 30px;
+    justify-content: center;
+    background-color: beige;
+    margin: 0 5px;
+}
+
+.quantity-controls button:hover{
+    background-color: burlywood;
+    cursor: pointer;
+}
+
+.quantity-controls p {
+    margin: 0 10px;
+}
+h3{
+    text-align: center;
+}
