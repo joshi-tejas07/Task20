@@ -1,1 +1,3 @@
 During the enhancement process, I improved the shopping cart functionality by adding the ability to add, remove, and adjust quantities of items. I also included sneaker-specific images from Unsplash for better visual representation. The code was simplified for beginners, ensuring clear understanding and ease of use while maintaining functionality and visual appeal.
+
+Production link: https://66574b49b19fd0371906607e--stalwart-fairy-697074.netlify.app/
