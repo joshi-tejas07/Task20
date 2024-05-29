@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+During the enhancement process, I improved the shopping cart functionality by adding the ability to add, remove, and adjust quantities of items. I also included sneaker-specific images from Unsplash for better visual representation. The code was simplified for beginners, ensuring clear understanding and ease of use while maintaining functionality and visual appeal.
